@@ -1,0 +1,16 @@
+C:\Users\Justin Carpenter\source\codeworks\TA-work\cSharpRock\bin\Debug\net5.0\cSharpRock.exe
+C:\Users\Justin Carpenter\source\codeworks\TA-work\cSharpRock\bin\Debug\net5.0\cSharpRock.deps.json
+C:\Users\Justin Carpenter\source\codeworks\TA-work\cSharpRock\bin\Debug\net5.0\cSharpRock.runtimeconfig.json
+C:\Users\Justin Carpenter\source\codeworks\TA-work\cSharpRock\bin\Debug\net5.0\cSharpRock.runtimeconfig.dev.json
+C:\Users\Justin Carpenter\source\codeworks\TA-work\cSharpRock\bin\Debug\net5.0\cSharpRock.dll
+C:\Users\Justin Carpenter\source\codeworks\TA-work\cSharpRock\bin\Debug\net5.0\ref\cSharpRock.dll
+C:\Users\Justin Carpenter\source\codeworks\TA-work\cSharpRock\bin\Debug\net5.0\cSharpRock.pdb
+C:\Users\Justin Carpenter\source\codeworks\TA-work\cSharpRock\obj\Debug\net5.0\cSharpRock.csprojAssemblyReference.cache
+C:\Users\Justin Carpenter\source\codeworks\TA-work\cSharpRock\obj\Debug\net5.0\cSharpRock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Justin Carpenter\source\codeworks\TA-work\cSharpRock\obj\Debug\net5.0\cSharpRock.AssemblyInfoInputs.cache
+C:\Users\Justin Carpenter\source\codeworks\TA-work\cSharpRock\obj\Debug\net5.0\cSharpRock.AssemblyInfo.cs
+C:\Users\Justin Carpenter\source\codeworks\TA-work\cSharpRock\obj\Debug\net5.0\cSharpRock.csproj.CoreCompileInputs.cache
+C:\Users\Justin Carpenter\source\codeworks\TA-work\cSharpRock\obj\Debug\net5.0\cSharpRock.dll
+C:\Users\Justin Carpenter\source\codeworks\TA-work\cSharpRock\obj\Debug\net5.0\ref\cSharpRock.dll
+C:\Users\Justin Carpenter\source\codeworks\TA-work\cSharpRock\obj\Debug\net5.0\cSharpRock.pdb
+C:\Users\Justin Carpenter\source\codeworks\TA-work\cSharpRock\obj\Debug\net5.0\cSharpRock.genruntimeconfig.cache
